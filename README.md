@@ -9,3 +9,8 @@ Steps:
 1. Start Appium server (Terminal --> Type command appium)
 2. Open Android Emulator
 3. Run Testng.xml as TestNG Suite
+
+Code Files:
+
+testPages --> Contains objects 
+testClasses --> TestNG method 
